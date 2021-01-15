@@ -1,0 +1,29 @@
+.timer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-size: 140px;
+  border-radius: 5px;
+  background-color: rgb(97, 235, 103);
+}
+
+.field {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  background: #29aecc;
+  color: rgb(187, 25, 100);
+}
+
+.value {
+  margin-bottom: 80px;
+}
+
+.label {
+  display: block;
+  font-size: 30px;
+}
